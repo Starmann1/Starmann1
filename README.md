@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Who am I: Software Developer and AI Engineer with an entrepreneurial mindset.<br>📚 What I do: B.Tech IT sophomore @ REC Chennai<br>🎯 Goals: Entrepreneur<br>🔭 Current Focus Area: Python libraries for ML & WebDev</p>
+<p align="left">✨ Who am I: Software Developer and AI Engineer with an entrepreneurial mindset.<br>📚 What I do: B.Tech IT sophomore @ REC Chennai<br>🎯 Goals: Entrepreneur<br>🔭 Current Focus Area: Python libraries for ML & AI</p>
 
 ###
 
